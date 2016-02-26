@@ -3,6 +3,9 @@ color:#ffb3b3;
 font-family:arial;
 }
 #brandy {
+  right: 50px;
+  left: 50px;
+  position: fixed;
   float: left;
   width: 100px;
   height: 100px
