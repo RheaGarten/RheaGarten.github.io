@@ -4,10 +4,10 @@ font-family:arial;
 }
 #brandy {
   right: 0px;
-  left: 100px;
+  left: 1000px;
   position: fixed;
   float: left;
-  width: 1000px;
+  width: 100px;
   height: 100px
 }
 .header h1 {
