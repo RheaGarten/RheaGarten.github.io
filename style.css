@@ -2,7 +2,7 @@ h1{
 color:#ffb3b3;
 font-family:arial;
 }
-IMG.displayed {
+.displayed {
     display: block;
     margin-left: auto;
     margin-right: auto 
