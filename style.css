@@ -2,13 +2,7 @@ h1{
 color:#ffb3b3;
 font-family:arial;
 }
-#brandy {
-  right: 200000px;
-  left: 200000px;
-  position: fixed;
-  float: left;
-  width: 100px;
-  height: 100px
+img {
 }
 .header h1 {
   font-family: sans-serif;
